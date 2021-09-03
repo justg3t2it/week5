@@ -1,6 +1,6 @@
 {
     "python.testing.pytestArgs": [
-        "."
+        "Vowels-Consonants "
     ],
     "python.testing.unittestEnabled": false,
     "python.testing.nosetestsEnabled": false,
